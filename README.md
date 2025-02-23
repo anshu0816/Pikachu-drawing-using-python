@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-You can copy and paste this content into your `README.md` file. Feel free to modify any parts to better suit your needs. If you need any more help, just let me know! 😊
+Feel free to modify any parts to better suit your needs. If you need any more help, just let me know! 😊
